@@ -1,7 +1,11 @@
-Open a terminal from your project root and run:
+# Frontend Dashboard – B.K.L Walawalkar Hospital
 
+This is a React-based dashboard that visualizes patient summary data fetched from the backend API.
 
-npx create-react-app frontend
+## 🔧 Setup Instructions
 
-cd frontend
+1. Navigate to the `frontend/` directory:
+   ```bash
+   cd frontend
+
 

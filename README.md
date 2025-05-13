@@ -1,4 +1,4 @@
-# B.K.L Walawalkar Hospital - Junior Data Scientist Practical Assessment
+# Junior Data Scientist Practical Assessment
 
 This repository contains a full-stack solution to the assessment challenge, including:
 
